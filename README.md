@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy Juan Sebastián Serrano</h1>
 
-<!--
-**juseser/juseser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Desarrollador en formación</strong> con enfoque en proyectos web reales, despliegue en producción, y dominio de herramientas modernas del ecosistema JavaScript.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos en producción
+
+### 🌙 [Significado de los Sueños](https://tusuenosignifica.com)
+- Sitio HTML/CSS/JS 100% estático
+- Enfocado en prácticas de SEO y monetización con Google AdSense
+- Publicado en GitHub Pages con dominio personalizado desde Namecheap
+
+### 🎬 [MovieFinder](https://buscadorpeliculas-sebas.netlify.app)
+- Buscador de películas con consumo de API externa (TMDB)
+- JavaScript, Fetch API, HTML y CSS
+- Desplegado en Netlify
+
+---
+
+## 🛠️ Tecnologías que utilizo
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+</div>
+
+---
+
+## 🎓 Áreas que estoy practicando activamente
+
+- Desarrollo de proyectos fullstack con **Node.js + Express + MongoDB**
+- Creación de APIs RESTful
+- Diseño frontend con **React** y JavaScript puro
+- Gestión de bases de datos relacionales (**MySQL**, **PostgreSQL**)
+- Posicionamiento SEO técnico y estructura semántica en HTML
+- Publicación en producción (Netlify, GitHub Pages, dominios personalizados)
+- Monetización inicial mediante **Google AdSense**
+- Uso de herramientas de análisis como **Search Console** y **SEOptimer**
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jserrano&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jserrano&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## 🌐 Redes sociales
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-sebastian-serrano-cardona-3517b9362/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juseser@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jserrano&style=flat-square&color=blue" alt="Contador de visitas" />
+</p>
