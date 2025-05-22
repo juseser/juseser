@@ -17,7 +17,7 @@ Me interesa dominar el ecosistema completo del desarrollo web moderno —desde e
 - Enfocado en prácticas de SEO y monetización con Google AdSense
 - Publicado en GitHub Pages con dominio personalizado desde Namecheap
 
-### 🎬 [MovieFinder](https://buscadorpeliculas-sebas.netlify.app)
+### 🎬 [Buscador Peliculas](https://buscadorpeliculas-sebas.netlify.app)
 - Buscador de películas con consumo de API externa (TMDB)
 - JavaScript, Fetch API, HTML y CSS
 - Desplegado en Netlify
