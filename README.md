@@ -1,8 +1,12 @@
-<h1 align="center">Hola 👋, soy Juan Sebastián Serrano</h1>
+<h1 align="center">Hola 👋, soy Juan Sebastian Serrano Cardona</h1>
 
-<p align="center">
-  <strong>Desarrollador en formación</strong> con enfoque en proyectos web reales, despliegue en producción, y dominio de herramientas modernas del ecosistema JavaScript.
-</p>
+## 👨‍💻 Sobre mí
+
+🎯 **Tecnólogo en Análisis y Desarrollo de Sistemas de Información**, apasionado por el aprendizaje práctico.  
+Creo firmemente en *“aprender haciendo”*, por eso enfoco mi desarrollo profesional en construir proyectos reales que fortalezcan mis conocimientos y habilidades técnicas.
+
+Me interesa dominar el ecosistema completo del desarrollo web moderno —desde el frontend hasta el backend— con un enfoque en soluciones funcionales, mantenibles y bien implementadas.
+
 
 ---
 
