@@ -55,8 +55,8 @@
 ## 📈 Estadísticas de GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jserrano&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jserrano&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juseser&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juseser&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -69,5 +69,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jserrano&style=flat-square&color=blue" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=juseser&style=flat-square&color=blue" alt="Contador de visitas" />
 </p>
