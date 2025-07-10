@@ -27,10 +27,10 @@ Me interesa dominar el ecosistema completo del desarrollo web moderno —desde e
 - Backend con Node.js (MVC), base de datos MySQL
 - Desplegado en Render con base de datos alojada en Files.io
 
-### 📝 [Task Manager Pro](https://github.com/juseser/task-manager-pro-EJS)
+### 📝 [Task Manager Pro](https://task-manager-pro-ejs.onrender.com/)
 - App fullstack para gestión de tareas con MongoDB y JWT
 - CRUD completo con vistas dinámicas en EJS y formularios modales
-- Repositorio disponible en GitHub
+- Desplegado en Render con base de datos alojada en MongoDB Atlas
 
 ---
 
