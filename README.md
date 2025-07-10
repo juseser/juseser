@@ -21,6 +21,16 @@ Me interesa dominar el ecosistema completo del desarrollo web moderno —desde e
 - Buscador de películas con consumo de API externa (TMDB)
 - JavaScript, Fetch API, HTML y CSS
 - Desplegado en Netlify
+- 
+### 🏡 [Bienes Raíces](https://bienesraices-mvc-n475.onrender.com)
+- Aplicación web completa con autenticación, subida de imágenes y mapas interactivos
+- Backend con Node.js (MVC), base de datos MySQL
+- Desplegado en Render con base de datos alojada en Files.io
+
+### 📝 [Task Manager Pro](https://github.com/juseser/task-manager-pro-EJS)
+- App fullstack para gestión de tareas con MongoDB y JWT
+- CRUD completo con vistas dinámicas en EJS y formularios modales
+- Repositorio disponible en GitHub
 
 ---
 
