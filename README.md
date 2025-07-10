@@ -25,7 +25,7 @@ Me interesa dominar el ecosistema completo del desarrollo web moderno —desde e
 ### 🏡 [Bienes Raíces](https://bienesraices-mvc-n475.onrender.com)
 - Aplicación web completa con autenticación, subida de imágenes y mapas interactivos
 - Backend con Node.js (MVC), base de datos MySQL
-- Desplegado en Render con base de datos alojada en Files.io
+- Desplegado en Render con base de datos alojada en Filess.io
 
 ### 📝 [Task Manager Pro](https://task-manager-pro-ejs.onrender.com/)
 - App fullstack para gestión de tareas con MongoDB y JWT
