@@ -36,7 +36,6 @@ Me interesa dominar el ecosistema completo del desarrollo web moderno —desde e
 
 ## 🛠️ Tecnologías que utilizo
 
-<div align="left">
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -59,7 +58,6 @@ Me interesa dominar el ecosistema completo del desarrollo web moderno —desde e
 ![Filess.io](https://img.shields.io/badge/Filess.io-000000?style=for-the-badge&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST--API-6E57E0?style=for-the-badge&logo=api&logoColor=white)
 
-</div>
 
 ---
 
