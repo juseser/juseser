@@ -32,6 +32,11 @@ Me interesa dominar el ecosistema completo del desarrollo web moderno —desde e
 - CRUD completo con vistas dinámicas en EJS y formularios modales
 - Desplegado en Render con base de datos alojada en MongoDB Atlas
 
+### 🖼️ [Gif Expert App](https://gif-app-practica.netlify.app/)
+- App frontend desarrollada en **JavaScript** usando **React** y **Vite**
+- Búsqueda por categorías, consumo de API externa y renderizado dinámico
+- Desplegado en **Netlify**
+
 ---
 
 ## 🛠️ Tecnologías que utilizo
