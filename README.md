@@ -37,6 +37,11 @@ Me interesa dominar el ecosistema completo del desarrollo web moderno —desde e
 - Búsqueda por categorías, consumo de API externa y renderizado dinámico
 - Desplegado en **Netlify**
 
+### 📝 [Mini-CRM](https://mini-crm-1-x5jd.onrender.com/)
+- Aplicación Fullstack sencilla tipo CRM
+- Backend con Node.js, Frontend con React y base de datos MySQL
+- Desplegado en Render con base de datos alojada en Filess.io
+
 ---
 
 ## 🛠️ Tecnologías que utilizo
