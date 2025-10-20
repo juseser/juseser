@@ -42,6 +42,12 @@ Me interesa dominar el ecosistema completo del desarrollo web moderno —desde e
 - Backend con Node.js, Frontend con React y base de datos MySQL
 - Desplegado en Render con base de datos alojada en Filess.io
 
+### 🔗 [Gestor de Enlaces PRO](https://gestor-enlaces-1.onrender.com/)
+- Aplicación Full-Stack para gestión de enlaces con análisis automático (Web Scraping)
+- **Backend:** Python (Flask) con Gunicorn y base de datos MongoDB Atlas.
+- **Frontend:** React, Vite y Tailwind CSS.
+- Desplegado en Render como servicios separados (Web Service y Static Site).
+
 ---
 
 ## 🛠️ Tecnologías que utilizo
