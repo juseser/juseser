@@ -69,6 +69,9 @@ Me interesa dominar el ecosistema completo del desarrollo web moderno —desde e
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Filess.io-000000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST--API-6E57E0?style=for-the-badge&logo=api&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vitest-6E94E4?style=for-the-badge&logo=vitest&logoColor=white"/>
 
 </div>
 
